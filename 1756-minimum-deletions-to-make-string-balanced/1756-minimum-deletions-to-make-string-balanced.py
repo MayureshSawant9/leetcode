@@ -1,6 +1,6 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        t_a = sum(1 for c in s if c == 'a')            
+        t_a = sum(1 for c in s if c == 'a')             
 
         a = b = 0
         min_del = float('inf')
