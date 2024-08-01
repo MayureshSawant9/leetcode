@@ -9,4 +9,6 @@ class Solution:
                 if i - coin >= 0:
                     dp[i] = min(dp[i], dp[i-coin] + 1)
             
-        return -1 if dp[amount] == float('inf') else dp[amount]
+        if dp[amount] == float('inf'):
+            return -1
+        return dp[amount]
