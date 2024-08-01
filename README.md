@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/MayureshSawant9/leetcode/tree/master/0322-coin-change) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MayureshSawant9/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -17,5 +18,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/MayureshSawant9/leetcode/tree/master/0322-coin-change) |
 | [2727-number-of-senior-citizens](https://github.com/MayureshSawant9/leetcode/tree/master/2727-number-of-senior-citizens) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MayureshSawant9/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
