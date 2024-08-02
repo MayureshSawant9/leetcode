@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MayureshSawant9/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/MayureshSawant9/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2727-number-of-senior-citizens](https://github.com/MayureshSawant9/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
@@ -34,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/MayureshSawant9/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/MayureshSawant9/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
 | ------- |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/MayureshSawant9/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/MayureshSawant9/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
