@@ -11,9 +11,8 @@ class Solution:
             else:
                 break
 
-        nums.sort()
         if k & 1:
+            nums.sort()
             nums[0] = -nums[0]
 
         return sum(nums)
-        
