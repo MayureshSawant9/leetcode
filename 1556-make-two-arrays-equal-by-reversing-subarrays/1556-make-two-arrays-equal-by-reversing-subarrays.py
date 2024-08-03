@@ -3,4 +3,4 @@ class Solution:
         tar_c = Counter(target)
         arr_c = Counter(arr)
 
-        return not len(tar_c - arr_c)
+        return not (tar_c - arr_c)
