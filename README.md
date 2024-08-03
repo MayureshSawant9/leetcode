@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/MayureshSawant9/leetcode/tree/master/0322-coin-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/MayureshSawant9/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MayureshSawant9/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MayureshSawant9/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/MayureshSawant9/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Breadth-First Search
@@ -42,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/MayureshSawant9/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MayureshSawant9/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Enumeration
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/MayureshSawant9/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Hash Table
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MayureshSawant9/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
