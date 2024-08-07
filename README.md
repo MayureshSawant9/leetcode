@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/MayureshSawant9/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/MayureshSawant9/leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MayureshSawant9/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/MayureshSawant9/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2727-number-of-senior-citizens](https://github.com/MayureshSawant9/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/MayureshSawant9/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MayureshSawant9/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayureshSawant9/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MayureshSawant9/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MayureshSawant9/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/MayureshSawant9/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Breadth-First Search
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MayureshSawant9/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MayureshSawant9/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayureshSawant9/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/MayureshSawant9/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
