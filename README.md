@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayureshSawant9/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/MayureshSawant9/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MayureshSawant9/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2350-find-closest-number-to-zero](https://github.com/MayureshSawant9/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2727-number-of-senior-citizens](https://github.com/MayureshSawant9/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Breadth-First Search
 |  |
